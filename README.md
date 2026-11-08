@@ -28,3 +28,9 @@ Real user accounts and database, chat, learning weights from feedback, Arabic/En
 
 ## Author
 Zainab Bateh — Informatics, final year.
+## Screenshots
+![Screenshot 1](screenshots/shot1.jpeg)
+![Screenshot 2](screenshots/shot2.jpeg)
+![Screenshot 3](screenshots/shot3.jpeg)
+![Screenshot 4](screenshots/shot4.jpeg)
+![Screenshot 5](screenshots/shot5.jpeg)
