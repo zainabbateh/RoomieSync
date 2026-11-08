@@ -34,3 +34,9 @@ Zainab Bateh — Informatics, final year.
 ![Screenshot 3](screenshots/shot3.jpeg)
 ![Screenshot 4](screenshots/shot4.jpeg)
 ![Screenshot 5](screenshots/shot5.jpeg)
+
+## Architecture
+- `app.py` – Flask server and REST API (`/api/config`, `/api/rank`, `/api/compare`)
+- `matching.py` – compatibility algorithm (weighted similarity, no machine learning)
+- `data.py` – lifestyle factors, weights and sample students
+- `static/app.js` – interface; sends profiles to the API and renders the results
